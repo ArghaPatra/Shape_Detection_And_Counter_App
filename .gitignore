@@ -1,0 +1,6 @@
+models/
+build/
+dist/
+*.spec
+*.zip
+__pycache__/
